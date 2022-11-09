@@ -1,0 +1,2 @@
+this dir only lists tools for equality DGP
+for inequalities L_ij <= ||x_i-x_j|| <= U_ij, see ../barvinok/barvinok3.p
