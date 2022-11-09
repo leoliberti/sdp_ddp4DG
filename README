@@ -1,2 +1,7 @@
-this dir only lists tools for equality DGP
-for inequalities L_ij <= ||x_i-x_j|| <= U_ij, see ../barvinok/barvinok3.p
+This repository only lists tools for equality DGP
+
+Run scripts without arguments to have a minimal help
+
+See https://link.springer.com/article/10.1007/s11750-020-00563-0 for theoretical background
+
+
